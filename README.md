@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Category](https://img.shields.io/badge/Category-OSINT%20%2F%20Cyber%20Threat%20Intelligence-blue?style=for-the-badge&logo=target)
+![Category](https://img.shields.io/badge/Category-OSINT%20with%20DFIR-blue?style=for-the-badge&logo=target)
 ![Status](https://img.shields.io/badge/Status-Solved-success?style=for-the-badge&logo=checkmarx)
 ![CTF](https://img.shields.io/badge/CTF-Cryptix%20CTF-orange?style=for-the-badge)
 ![Organizer](https://img.shields.io/badge/Organizer-HTU%20Cyber%20Club-blue?style=for-the-badge)
@@ -25,7 +25,7 @@
 | Field | Detail |
 | :--- | :--- |
 | **Challenge Name** | Bangladesh Bank Cyber Heist |
-| **Category** | OSINT / Cyber Threat Intelligence |
+| **Category** | OSINT with DFIR (Cyber Threat Intelligence) |
 | **Target Organization** | Bangladesh Bank / Federal Reserve Bank of New York |
 | **Threat Actor** | Lazarus Group (APT38 / Lab 110 / RGB) |
 | **Primary Indicted Operative** | Park Jin Hyok (박진혁) |
