@@ -1,5 +1,8 @@
 # Bangladesh Bank Cyber Heist — Cytech CTF Write-Up
 
+> [!NOTE]
+> Part of the [**Cyrptix CTF OSINT Write-Ups Collection**](https://github.com/Dabuynyx/Cyrptix-CTF-OSINT-write-up).
+
 <div align="center">
 
 ![Category](https://img.shields.io/badge/Category-OSINT%20%2F%20Cyber%20Threat%20Intelligence-blue?style=for-the-badge&logo=target)
